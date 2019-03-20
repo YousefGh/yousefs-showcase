@@ -1,8 +1,6 @@
 $(function () {
      $('body')
-          .hide()
           .fadeIn('slow');
-
 });
 
 $(document).ready(function () {
